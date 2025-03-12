@@ -57,10 +57,8 @@ Here are the technologies and tools I'm currently working with:
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Archalal&theme=onedark" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Archalal&theme=gruvbox&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=282828" alt="GitHub Trophies"/>
 </div>
-
----
 
 ## 🤝 **Let's Connect!**
 
