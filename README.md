@@ -4,7 +4,11 @@
 
 ---
 
+### 🐍 **Contribution Snake**
 
+![Snake Animation](https://github.com/Archalal/Archalal/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ## 🚀 **About Me**
 
@@ -49,16 +53,19 @@ Here are the technologies and tools I'm currently working with:
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archalal&show_icons=true&theme=dark&hide=stars,issues&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archalal&layout=compact&theme=dark&title_color=00ff00&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Archalal&show_icons=true&theme=onedark&hide=stars,issues&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archalal&layout=compact&theme=onedark&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="48%"/>
 </div>
+
 ---
 
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Archalal&theme=gruvbox&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=282828" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Archalal&theme=onedark&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Trophies"/>
 </div>
+
+---
 
 ## 🤝 **Let's Connect!**
 
