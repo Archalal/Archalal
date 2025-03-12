@@ -49,10 +49,9 @@ Here are the technologies and tools I'm currently working with:
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archalal&show_icons=true&theme=radical&hide=stars,issues&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archalal&layout=compact&theme=radical&title_color=ffffff&text_color=daf7dc&bg_color=151515" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Archalal&show_icons=true&theme=tokyonight&hide=stars,issues&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archalal&layout=compact&theme=tokyonight&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36" alt="Top Languages" width="48%"/>
 </div>
-
 ---
 
 ## 🏆 **GitHub Trophies**
