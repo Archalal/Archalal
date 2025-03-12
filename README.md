@@ -4,11 +4,6 @@
 
 ---
 
-### 🐍 **Contribution Snake**
-
-![Snake Animation](https://github.com/Archalal/Archalal/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 🚀 **About Me**
 
