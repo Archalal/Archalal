@@ -5,6 +5,7 @@
 ---
 
 
+
 ## 🚀 **About Me**
 
 - 🌱 **Currently Learning:** MERN Stack Development
@@ -41,15 +42,15 @@ Here are the technologies and tools I'm currently working with:
 ### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archalal&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archalal&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Archalal&show_icons=true&theme=radical&hide=stars,issues&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archalal&layout=compact&theme=radical&title_color=ffffff&text_color=daf7dc&bg_color=151515" alt="Top Languages" width="48%"/>
 </div>
 
 ---
