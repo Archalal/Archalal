@@ -49,8 +49,8 @@ Here are the technologies and tools I'm currently working with:
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archalal&show_icons=true&theme=radical&hide=stars,issues&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=45,ff9a9e,ff6f69" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archalal&layout=compact&theme=radical&title_color=ffffff&text_color=daf7dc&bg_color=45,ff9a9e,ff6f69" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Archalal&show_icons=true&theme=dark&hide=stars,issues&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archalal&layout=compact&theme=dark&title_color=00ff00&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%"/>
 </div>
 ---
 
