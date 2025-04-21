@@ -5,7 +5,7 @@
 ---
 
 
-## 🚀 **About Me**
+## **About Me**
 
 - 🌱 **Currently Learning:** MERN Stack Development
 - 👯 **Looking to Collaborate On:** Open-source projects or beginner-friendly MERN stack apps
