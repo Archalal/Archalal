@@ -1,4 +1,4 @@
-# Hello !   👋 I'm Archa Lal S
+# Hello ! 👋 I'm Archa Lal S
 
 🌟 Welcome to my GitHub profile! I'm a passionate learner diving deep into the **MERN stack** (MongoDB, Express.js, React, and Node.js). I love turning ideas into code and solving problems creatively. Here's a little about me:
 
