@@ -1,4 +1,4 @@
-# Hello! 👋 I'm Archa Lal S
+# Hello!  I'm Archa Lal S
 
 ### MERN Stack Developer | Passionate Learner | Creative Problem Solver
 
