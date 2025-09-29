@@ -89,35 +89,5 @@ I'm a dedicated developer with a passion for creating efficient, scalable web ap
 
 </div>
 
----
 
-## 💻 Code Example
-
-```swift
-class Person {
-    let name: String
-    let role: String
-    let skills: [String]
-    let strengths: [String]
-    
-    init(name: String, role: String, skills: [String], strengths: [String]) {
-        self.name = name
-        self.role = role
-        self.skills = skills
-        self.strengths = strengths
-    }
-    
-    func introduce() {
-        print("Hi, I'm \(name), a \(role).")
-        print("My core skills include: \(skills.joined(separator: ", ")).")
-        print("My strengths: \(strengths.joined(separator: ", ")).")
-    }
-}
-
-let person = Person(
-    name: "Kawodya Arachchige",
-    role: "Software Developer & Designer",
-    skills: ["Problem Solving", "UI/UX Design", "Creative Thinking", "Coding"],
-    strengths: ["Attention to Detail", "Innovative Ideas", "Collaborative Team Player"]
-)
-person.introduce()
+ 
